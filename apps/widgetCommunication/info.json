@@ -1,0 +1,25 @@
+{
+  "created": 1762420396661,
+  "description": "",
+  "id": "widgetCommunication",
+  "modified": 1763563331261,
+  "owner": "chb4demoportal",
+  "tags": [],
+  "thumbnail": null,
+  "title": "European Dev & Tech Summit Demo",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Changed",
+    "version:1.18.0",
+    "publishVersion:1.18.0"
+  ],
+  "portalUrl": "https://esri-de-5.maps.arcgis.com",
+  "username": "chb4demoportal",
+  "name": "European Dev & Tech Summit Demo",
+  "isLocalApp": true,
+  "url": null
+}

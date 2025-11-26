@@ -9,3 +9,11 @@ Most of the slides are made available at [Esri Events > Proceedings](https://www
 ## Related sessions
 
 * [ArcGIS Experience Builder: An Introduction](https://registration.esri.com/flow/esri/25euroepcdev/deveventportal/page/detailed-agenda/session/1756959503315001aIx3)
+
+## How it works
+1. Clone the repo into the client folder of your experience builder dev edition
+2. Copy the content of the apps folder to server/public/apps
+3. Run npm start in client and server folder of your experience builder dev edition
+4. Open the sample apps with
+   https://localhost:3001/experience/changeDS or
+   https://localhost:3001/experience/widgetCommunication
